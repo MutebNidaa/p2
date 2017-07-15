@@ -1,0 +1,39 @@
+
+.all {
+  width: 320px;
+  border: solid rgb(205,205,205) 1px;
+  box-shadow: 2px 4px 4px #ada8ad;
+}
+
+.alltext {
+  width: 300px;
+  margin: 10px;
+  border: solid rgb(205,205,205) 1px;
+}
+
+.text {
+  font-style: italic;
+}
+
+img {
+  margin: auto;
+  display: block;
+}
+
+h3 {
+  padding: 0 15px;
+}
+
+p {
+  padding: 0 10px;
+}
+
+ul {
+  padding: 0 10px;
+  list-style: none;
+}
+
+span {
+  font-weight: bold;
+}
+
